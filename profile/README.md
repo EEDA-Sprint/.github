@@ -20,11 +20,11 @@
         - 프론트엔드 : <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white">, <img src="https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=Typescript&logoColor=white">
         - 백엔드 : <img src="https://img.shields.io/badge/GraphQL-purple?style=flat-square&logo=GraphQL&logoColor=white">, <img src="https://img.shields.io/badge/Spring Boot-claret?style=flat-square&logo=Spring&logoColor=white">, <img src="https://img.shields.io/badge/mongoDB-brown?style=flat-square&logo=MongoDB&logoColor=white">
       - 와이어프레임 작성
-        - UI 설계
+        - UI 설계<br>
    2) 개발 환경 설정
-      - Github organization 생성
+      - Github organization 생성<br>
    3) 초기 파이프라인 구축
-      - 배포 환경 설정 : <img src="https://img.shields.io/badge/Lattepanda-navy?style=flat-square&logo=foodpanda&logoColor=white">
-   4) 프론트엔드 개발
+      - 배포 환경 설정 : <img src="https://img.shields.io/badge/Lattepanda-navy?style=flat-square&logo=foodpanda&logoColor=white"><br>
+   4) 프론트엔드 개발<br>
    5) 백엔드 개발
       1) API 명세서, 기능설계서, ERD 작성
