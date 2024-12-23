@@ -24,7 +24,7 @@
    2) 개발 환경 설정
       - Github organization 생성
    3) 초기 파이프라인 구축
-      - 배포 환경 설정 : 
+      - 배포 환경 설정 : <img src="https://img.shields.io/badge/Lattepanda-navy?style=flat-square&logo=foodpanda&logoColor=white">
    4) 프론트엔드 개발
    5) 백엔드 개발
       1) API 명세서, 기능설계서, ERD 작성
