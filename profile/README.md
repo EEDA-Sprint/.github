@@ -18,7 +18,7 @@
         - 조회 기능
       - 기술 스택 결정
         - 프론트엔드 : <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white">, <img src="https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=Typescript&logoColor=white">
-        - 백엔드 : <img src="https://img.shields.io/badge/GraphQL-purple?style=flat-square&logo=GraphQL&logoColor=white">, <img src="https://img.shields.io/badge/Spring Boot-claret?style=flat-square&logo=Spring&logoColor=white">, mongoDB
+        - 백엔드 : <img src="https://img.shields.io/badge/GraphQL-purple?style=flat-square&logo=GraphQL&logoColor=white">, <img src="https://img.shields.io/badge/Spring Boot-claret?style=flat-square&logo=Spring&logoColor=white">, <img src="https://img.shields.io/badge/mongoDB-brown?style=flat-square&logo=MongoDB&logoColor=white">
       - 와이어프레임 작성
         - UI 설계
    2) 개발 환경 설정
